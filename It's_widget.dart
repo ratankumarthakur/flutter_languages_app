@@ -1,3 +1,5 @@
+//you can write any language in code just visit google translate ,translate any word ,copy it's translation and paste under Text widget.
+
 import 'package:flutter/material.dart';
 
 class language extends StatefulWidget {
